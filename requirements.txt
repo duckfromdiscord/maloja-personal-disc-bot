@@ -1,0 +1,2 @@
+disnake==2.9.0
+requests-async==0.6.2
